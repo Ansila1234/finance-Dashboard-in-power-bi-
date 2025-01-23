@@ -2,6 +2,7 @@
 
 
 
+[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM4OGZlMTYtNmQ5MS00MzZhLWJiNGQtOWEwZjA2Y2QwYmE0IiwidCI6ImU5ODE4OTYxLTJkN2QtNGMwYS05ZGQ1LTI1MmRiYmM2ZWNkZiJ9)
 
 ## Overview
 This project involves the creation of a comprehensive financial dashboard using Power BI to track and analyze key financial metrics over a four-year period (2021-2024). The dashboard provides insights into income, expenses, and savings, enabling data-driven decision-making.
